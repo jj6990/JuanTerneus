@@ -7,7 +7,6 @@ Web developer - Multimedia Designer
 I'm a Frontend developer inspired by music and art. I love creating great products with interesting designs that are useful for clients, also resolving complex problems for engaging functionalities. I currently live in Quito - Ecuador.
 
 * 🌍  I'm based in Quito - Ecuador
-* 🖥️  See my portfolio at [coming soon](http://juanterneus.develup.tech)
 * ✉️  You can contact me at [jterneus@develup.tech](mailto:jterneus@develup.tech)
 * 🧠  I'm learning all Javascript related
 * 🤝  I'm open to collaborating on anything :)
